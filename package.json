@@ -1,0 +1,14 @@
+{
+  "name": "bitcoin-ec-seed-gen",
+  "version": "1.0.0",
+  "description": "seed and mnemonec code generator for bitcoin hd wallet",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "vitocchi",
+  "license": "ISC",
+  "dependencies": {
+    "bip39": "^2.5.0"
+  }
+}
